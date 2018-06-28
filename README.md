@@ -1,2 +1,2 @@
-# wagclient
+# Wag Client
 Minecraft Hacked Client
